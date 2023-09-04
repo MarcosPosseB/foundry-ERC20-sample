@@ -1,9 +1,7 @@
 # ERC-20 Token Smart Contract
 
 # Introduction
-Welcome to the ERC-20 Token Smart Contract, a fundamental building block for secure and transparent value exchange within the Ethereum ecosystem. This contract is designed to meet the highest standards of security and transparency, making it an ideal choice for various decentralized applications (DApps) and use cases.
-
-# Key Features 
+This is an ERC20 sample contract. Its purpose is to provide a secure and transparent means of exchanging value within the Ethereum ecosystem. 
 
 # ERC-20 Compliance
 This contract strictly adheres to the ERC-20 standard, a widely accepted specification for fungible tokens on the Ethereum blockchain. ERC-20 compliance ensures seamless integration with a plethora of DApps, platforms, and exchanges.
